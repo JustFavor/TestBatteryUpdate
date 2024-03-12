@@ -8,6 +8,9 @@
             <sparkle:version>2024030202</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <description>
+<![CDATA[ <ul> <li> 更新</br> 1.修复开机自启动问题</br> 2.修复App内链接错误问题</br> 如果在线更新出错，您可以在官网重新下载安装包进行安装https://www.better365.cn/FlyKey.html</br> </li> </ul> ]]>
+            </description>
             <enclosure url="https://raw.githubusercontent.com/JustFavor/TestBatteryUpdate/master/BatterySparkle1111.zip" length="4690985" type="application/octet-stream" sparkle:edSignature="36KQrugF6xHnLnmReUAAUqgGJD1U+qdT5J2IR2DfROhdSX06Wj69bSoq09TZ1Z/TcBCn5ioYzTPiEnk3RKxRBQ=="/>
         </item>
     </channel>
