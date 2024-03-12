@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Battery Sparkle</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 12 Mar 2024 10:17:43 +0800</pubDate>
+            <sparkle:version>2024030202</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="BatterySparkle1111.zip" length="4690985" type="application/octet-stream" sparkle:edSignature="36KQrugF6xHnLnmReUAAUqgGJD1U+qdT5J2IR2DfROhdSX06Wj69bSoq09TZ1Z/TcBCn5ioYzTPiEnk3RKxRBQ=="/>
+        </item>
+    </channel>
+</rss>
